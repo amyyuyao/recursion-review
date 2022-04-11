@@ -6,5 +6,7 @@
 // But instead we're going to implement it from scratch:
 var getElementsByClassName = function(className
 ) {
+  134
   // your code here
+  a
 };
